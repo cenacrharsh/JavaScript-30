@@ -5,33 +5,33 @@
 
 No. | Project        | GitHub Repo            | Demo
 --|-----------|------------------------|---
-01| JavaScript Drum Kit | [GitHub Repo]() | [JavaScript Drum Kit]() ✅
-02| CSS + JS Clock | [GitHub Repo]() | [CSS + JS Clock]() ✅
-03| Playing with CSS Variables and JS | [GitHub Repo]() | [Playing with CSS Variables and JS]() ✅
-04| Array Cardio Day 1 | [GitHub Repo]() | [Array Cardio Day 1]() ✅
-05| Flex Panels Image Gallery | [GitHub Repo]() | [Flex Panels Image Gallery]() ✅
-06| Ajax Type Ahead | [GitHub Repo]() | [Ajax Type Ahead]() ✅
-07| Array Cardio Day 2 | [GitHub Repo]() | [Array Cardio Day 2]() ✅
-08| Fun with HTML5 Canvas | [GitHub Repo]() | [Fun with HTML5 Canvas]() ✅
-09| 14 Must Know Dev Tools Tricks | [GitHub Repo]() | [14 Must Know Dev Tools Tricks]() ✅
-10| Hold Shift to Check Multiple Checkboxes | [GitHub Repo]() | [Hold Shift to Check Multiple Checkboxes]() ✅
-11| Custom HTML5 Video Player | [GitHub Repo]() | [Custom HTML5 Video Player]() ✅
-12| Key Sequence Detection (KONAMI CODE) | [GitHub Repo]() | [Key Sequence Detection (KONAMI CODE)]() ✅
-13| Slide In on Scroll | [GitHub Repo]() | [Slide In on Scroll]() ✅
-14| Object and Arrays - Reference VS Copy | [GitHub Repo]() | [Object and Arrays - Reference VS Copy]() ✅
-15| LocalStorage and Event Delegation | [GitHub Repo]() | [LocalStorage and Event Delegation]() ✅
-16| CSS Text Shadow Mouse Move Effect | [GitHub Repo]() | [CSS Text Shadow Mouse Move Effect]() ✅
-17| Sorting Band Names without articles | [GitHub Repo]() | [Sorting Band Names without articles]() ✅
-18| Tally String Times with Reduce | [GitHub Repo]() | [Tally String Times with Reduce]() ✅
-19| Unreal Webcam Fun | [GitHub Repo]() | [Unreal Webcam Fun]() ✅
-20| Native Speech Recognition | [GitHub Repo]() | [Native Speech Recognition]() ✅
-21| Geolocation based Speedometer and Compass | [GitHub Repo]() | [Geolocation based Speedometer and Compass]() ✅
-22| Follow Along Links | [GitHub Repo]() | [Follow Along Links]() ✅
-23| Speech Synthesis | [GitHub Repo]() | [Speech Synthesis]() ✅
-24| Sticky Nav | [GitHub Repo]() | [Sticky Nav]() ✅
-25| Event Capture, Propagation, Bubbling and Once | [GitHub Repo]() | [Event Capture, Propagation, Bubbling and Once]() ✅
-26| Stripe Follow Along Dropdown | [GitHub Repo]() | [Stripe Follow Along Dropdown]() ✅
-27| Click and Drag to Scroll | [GitHub Repo]() | [Click and Drag to Scroll]() ✅
-28| Video Speed Controller UI | [GitHub Repo]() | [Video Speed Controller UI]() ✅
-29| Countdown Clock | [GitHub Repo]() | [Countdown Clock]() ✅
-30| Whack A Mole Game | [GitHub Repo]() | [Whack A Mole Game]() ✅
+01| JavaScript Drum Kit | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-1) | [JavaScript Drum Kit](https://cenacrharsh.github.io/JS-30-Day-1/) ✅
+02| CSS + JS Clock | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-2) | [CSS + JS Clock](https://cenacrharsh.github.io/JS-30-DAY-2/) ✅
+03| Playing with CSS Variables and JS | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-3) | [Playing with CSS Variables and JS](https://cenacrharsh.github.io/JS-30-DAY-3/) ✅
+04| Array Cardio Day 1 | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-4) | [Array Cardio Day 1](https://cenacrharsh.github.io/JS-30-DAY-4/) ✅
+05| Flex Panels Image Gallery | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-5) | [Flex Panels Image Gallery](https://cenacrharsh.github.io/JS-30-DAY-5/) ✅
+06| Ajax Type Ahead | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-6) | [Ajax Type Ahead](https://cenacrharsh.github.io/JS-30-DAY-6/) ✅
+07| Array Cardio Day 2 | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-7) | [Array Cardio Day 2](https://cenacrharsh.github.io/JS-30-DAY-7/) ✅
+08| Fun with HTML5 Canvas | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-8) | [Fun with HTML5 Canvas](https://cenacrharsh.github.io/JS-30-DAY-8/) ✅
+09| 14 Must Know Dev Tools Tricks | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-9) | [14 Must Know Dev Tools Tricks](https://cenacrharsh.github.io/JS-30-DAY-9/) ✅
+10| Hold Shift to Check Multiple Checkboxes | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-10) | [Hold Shift to Check Multiple Checkboxes](https://cenacrharsh.github.io/JS-30-DAY-10/) ✅
+11| Custom HTML5 Video Player | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-11) | [Custom HTML5 Video Player](https://cenacrharsh.github.io/JS-30-DAY-12/) ✅
+12| Key Sequence Detection (KONAMI CODE) | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-12) | [Key Sequence Detection (KONAMI CODE)](https://cenacrharsh.github.io/JS-30-DAY-12/) ✅
+13| Slide In on Scroll | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-13) | [Slide In on Scroll](https://cenacrharsh.github.io/JS-30-DAY-13/) ✅
+14| Object and Arrays - Reference VS Copy | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-14) | [Object and Arrays - Reference VS Copy](https://cenacrharsh.github.io/JS-30-DAY-14/) ✅
+15| LocalStorage and Event Delegation | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-15) | [LocalStorage and Event Delegation](https://cenacrharsh.github.io/JS-30-DAY-15/) ✅
+16| CSS Text Shadow Mouse Move Effect | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-16) | [CSS Text Shadow Mouse Move Effect](https://cenacrharsh.github.io/JS-30-DAY-16/) ✅
+17| Sorting Band Names without articles | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-17) | [Sorting Band Names without articles](https://cenacrharsh.github.io/JS-30-DAY-17/) ✅
+18| Tally String Times with Reduce | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-18) | [Tally String Times with Reduce](https://cenacrharsh.github.io/JS-30-DAY-18/) ✅
+19| Unreal Webcam Fun | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-19) | [Unreal Webcam Fun](https://cenacrharsh.github.io/JS-30-DAY-19/) ✅
+20| Native Speech Recognition | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-20) | [Native Speech Recognition](https://cenacrharsh.github.io/JS-30-DAY-20/) ✅
+21| Geolocation based Speedometer and Compass | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-21) | [Geolocation based Speedometer and Compass](https://cenacrharsh.github.io/JS-30-DAY-21/) ✅
+22| Follow Along Links | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-22) | [Follow Along Links](https://cenacrharsh.github.io/JS-30-DAY-22/) ✅
+23| Speech Synthesis | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-23) | [Speech Synthesis](https://cenacrharsh.github.io/JS-30-DAY-23/) ✅
+24| Sticky Nav | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-24) | [Sticky Nav](https://cenacrharsh.github.io/JS-30-DAY-24/) ✅
+25| Event Capture, Propagation, Bubbling and Once | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-25) | [Event Capture, Propagation, Bubbling and Once](https://cenacrharsh.github.io/JS-30-DAY-25/) ✅
+26| Stripe Follow Along Dropdown | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-26) | [Stripe Follow Along Dropdown](https://cenacrharsh.github.io/JS-30-DAY-26/) ✅
+27| Click and Drag to Scroll | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-27) | [Click and Drag to Scroll](https://cenacrharsh.github.io/JS-30-DAY-27/) ✅
+28| Video Speed Controller UI | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-28) | [Video Speed Controller UI](https://cenacrharsh.github.io/JS-30-DAY-28/) ✅
+29| Countdown Clock | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-29) | [Countdown Clock](https://cenacrharsh.github.io/JS-30-DAY-29/) ✅
+30| Whack A Mole Game | [GitHub Repo](https://github.com/cenacrharsh/JS-30-Day-30) | [Whack A Mole Game](https://cenacrharsh.github.io/JS-30-DAY-30/) ✅
