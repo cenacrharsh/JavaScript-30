@@ -38,4 +38,4 @@ No. | Project        | GitHub Repo            | Demo
 
 ## 🎯 Conclusion
 It was a great challenge, I learned a lot about JavaScript. I would like to Thank [Wes Bos](https://github.com/wesbos) for this amazing challenge.
-Lastly I would recommend each and everyone to complete this challenge if they are trying to get better at JavaScript.
+Lastly I would like to recommend this challenge to everyone who is trying to get better at JavaScript.
