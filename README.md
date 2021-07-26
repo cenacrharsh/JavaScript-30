@@ -1,8 +1,7 @@
 <h1 align=center> JavaScript - 30 </h1>
 <h2 align=center> <a href="https://javascript30.com/"> JavaScript-30 </a> is a 30 Day Vanilla JS Coding Challenge 👨‍💻 </h2>
 
-## 📖 [Blog](https://dev.to/cenacr007_harsh/series/13349)
-I have written a detailed blog on each days project.
+## 📖 [Blog](https://dev.to/cenacr007_harsh/series/13349) - I have written a detailed blog on each days project.
 
 ## All Projects <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
 
