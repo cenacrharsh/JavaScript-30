@@ -1,6 +1,5 @@
-<h1 align=center> JavaScript - 30 </h1>
+<h1 align=center> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript - 30 </h1>
 <h2 align=center> <a href="https://javascript30.com/"> JavaScript-30 </a> is a 30 Day Vanilla JS Coding Challenge </h2>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 ## All Projects
 
